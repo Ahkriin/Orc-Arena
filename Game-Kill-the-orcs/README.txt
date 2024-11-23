@@ -8,7 +8,10 @@ It has basic settings functionality like FPS control, language, and texture qual
 along with some cheats.
 
 The application uses lightweight virtual threads introduced in Java 21.
-It was written using IntelliJ IDEA. Some images were generated with AI Stable Diffusion
-and hand-edited. Sprite sheets were animated using the Unity3D sprite editor.
+It was written using IntelliJ IDEA(that information is for project version with source code).
+Some images were generated with AI Stable Diffusion and hand-edited.
+Sprite sheets were animated using the Unity3D sprite editor.
+
+To check what a player's skill does, hover the cursor over the skill icon.
 
 In order to work, keep "Game.jar" and "src" folder in the same directory(Game folder)
